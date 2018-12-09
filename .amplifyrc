@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "awsreactfilemanager-20181208103651-authRole",
+            "UnauthRoleArn": "arn:aws:iam::308692676076:role/awsreactfilemanager-20181208103651-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::308692676076:role/awsreactfilemanager-20181208103651-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "awsreactfilemanager-20181208103651-deployment",
+            "UnauthRoleName": "awsreactfilemanager-20181208103651-unauthRole",
+            "StackName": "awsreactfilemanager-20181208103651",
+            "StackId": "arn:aws:cloudformation:us-west-2:308692676076:stack/awsreactfilemanager-20181208103651/ff2441f0-fb28-11e8-b2e0-503acbd4dc99"
+        }
+    }
+}
